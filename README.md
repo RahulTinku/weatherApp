@@ -1,7 +1,7 @@
 # weatherApp
 Weather Application in angularJS
 
-##install the application
+## install the application
 Go inside TestApp folder
 run 'npm install'
 run 'gulp serve'
